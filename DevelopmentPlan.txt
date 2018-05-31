@@ -1,0 +1,5 @@
+Current development planning
+
+- Inventory System
+- Save System
+- Gacha System
